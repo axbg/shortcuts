@@ -3,7 +3,6 @@
 ### 1. First Step
 
 - Detailed instructions
-
 ```bash
 # commands
 ```
