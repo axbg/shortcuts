@@ -1,5 +1,4 @@
 ## Shortcut Title
-#
 
 ### 1. First Step
 
