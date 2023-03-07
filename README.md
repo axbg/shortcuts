@@ -7,5 +7,9 @@ To keep everything tiddy, each entry follows the conventions defined in the [tem
 ### Content
 - [linux](./linux)
     - [1. WiFi-Fix](<./linux/1. WiFi-Fix.md>)
+        - Realtek BCM4352
+        - Realtek RTL8821CE
+
     - [2. Create Bootable Disk](<./linux/2. Create Bootable Disk.md>)
+    
     - [3. Connect RPI to Wi-Fi at startup](<./linux/3. Connect RPI to Wi-Fi at startup.md>)
