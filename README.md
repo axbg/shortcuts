@@ -13,3 +13,5 @@ To keep everything tiddy, each entry follows the conventions defined in the [tem
     - [2. Create Bootable Disk](<./linux/2. Create Bootable Disk.md>)
     
     - [3. Connect RPI to Wi-Fi at startup](<./linux/3. Connect RPI to Wi-Fi at startup.md>)
+
+    - [4. Create a self-signed certificate](<./linux/4. Create a self-signed certificate.md>)
