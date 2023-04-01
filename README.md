@@ -15,3 +15,5 @@ To keep everything tiddy, each entry follows the conventions defined in the [tem
     - [3. Connect RPI to Wi-Fi at startup](<./linux/3. Connect RPI to Wi-Fi at startup.md>)
 
     - [4. Create a self-signed certificate](<./linux/4. Create a self-signed certificate.md>)
+
+    - [5. Useful vim shortcuts](<./linux/5. Useful vim shortcuts.md>)
