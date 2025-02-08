@@ -19,3 +19,6 @@ To keep everything tiddy, each entry follows the conventions defined in the [tem
     - [5. Useful vim shortcuts](<./linux/5. Useful vim shortcuts.md>)
 
     - [6. Network Manager configuration on debian/i3](<./linux/6. Network Manager configuration on debian and i3.md>)
+
+    - [7. Configure a cloudflared tunnel](<./linux/7. Configure a cloudflared tunnel.md>)
+
